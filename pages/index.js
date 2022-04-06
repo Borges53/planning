@@ -23,7 +23,7 @@ export default function HomePage() {
       padding="md"
       navbar={<Issues />}
       header={
-        <Header height={60} p="xs">
+        <Header height={"10vh"} p="xs">
           PLANNING HECHA POR GALOs company
         </Header>
       }
