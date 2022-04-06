@@ -36,7 +36,7 @@ export default function HomePage() {
     >
       <Container>
         <Text align='center'>ROOM ID: #dawddad2</Text>
-        <Center style={{ width: '100%', height: 800 }}>
+        <Center style={{ width: '100%', height: 750 }}>
         <Box
             sx={{
               position: 'absolute',
