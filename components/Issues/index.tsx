@@ -16,7 +16,7 @@ export default function Demo() {
   const items = ['s', 's', 's', 's', 's'];
 
   return (
-    <Navbar height={'90vh'} p="xs" width={{ base: 600 }}>
+    <Navbar height={'95vh'} p="xs" width={{ base: 600 }}>
       <Navbar.Section mt="xs">
         <ColorSchemeToggle />
       </Navbar.Section>
